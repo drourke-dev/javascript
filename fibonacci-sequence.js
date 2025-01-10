@@ -18,4 +18,4 @@ console.log(fibonacci(2)); // [ 0, 1 ]
 console.log(fibonacci(3)); // [ 0, 1, 1 ]
 console.log(fibonacci(5)); // [ 0, 1, 1, 2, 3 ]
 
-// Big O = O(n) -> Linear Time Complexity
+// Big O = O(n) → Linear Time Complexity

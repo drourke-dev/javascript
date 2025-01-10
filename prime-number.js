@@ -19,4 +19,4 @@ console.log(isPrime(1)); // false
 console.log(isPrime(5)); // true
 console.log(isPrime(4)); // false
 
-// Big O = O(sqrt(n)) -> Sublinear Time Complexity
+// Big O = O(sqrt(n)) → Sublinear Time Complexity
